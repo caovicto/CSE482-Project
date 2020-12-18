@@ -18,7 +18,7 @@
   
 <tr style="background-color: #264653">
 <td markdown="span"> 0 </td>
-<td markdown="span"> Dolly Parton donation</td>
+<td markdown="span"> Current events and pop culture</td>
 </tr>
   
 <tr style="background-color: #2a9d8f">
