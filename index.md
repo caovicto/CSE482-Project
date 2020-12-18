@@ -45,7 +45,7 @@
 </table>
 
 ## Clustering Map
-Since we are limited by the capacity of the Google Maps API, only 1k tweets from the 11k classified tweets are show, with 200 being from each cluster category.
+Since we are limited by the capacity of the Google Maps API, only 1k tweets from the 11k classified tweets are shown, with 200 being from each cluster category.
 
 Click 'Okay', and hover over the dots for the tweet content.
 
