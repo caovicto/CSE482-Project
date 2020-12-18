@@ -9,7 +9,7 @@
 <col width="20%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr class="header" style="color: Black">
 <th>Cluster</th>
 <th>Description</th>
 </tr>
