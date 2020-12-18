@@ -10,34 +10,34 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
+<th>Cluster</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
   
-<tr>
-<td markdown="span" style="color: #264653"> Cluster 0 </td>
+<tr style="color: #264653">
+<td markdown="span"> 0 </td>
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
   
 <tr>
-<td markdown="span" style="color: #264653"> Cluster 1 </td>
+<td markdown="span" style="color: #264653"> 1 </td>
 <td markdown="span">Some more descriptive text.</td>
 </tr>
 
 <tr>
-<td markdown="span" style="color: #264653"> Cluster 2 </td>
+<td markdown="span" style="color: #264653"> 2 </td>
 <td markdown="span">Some more descriptive text.</td>
 </tr>
 
 <tr>
-<td markdown="span" style="color: #264653"> Cluster 3 </td>
+<td markdown="span" style="color: #264653"> 3 </td>
 <td markdown="span">Some more descriptive text.</td>
 </tr>
 
 <tr>
-<td markdown="span" style="color: #264653"> Cluster 4 </td>
+<td markdown="span" style="color: #264653"> 4 </td>
 <td markdown="span">Some more descriptive text.</td>
 </tr>
 
