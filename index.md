@@ -18,27 +18,27 @@
   
 <tr style="background-color: #264653">
 <td markdown="span"> 0 </td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span"> Dolly Parton donation</td>
 </tr>
   
 <tr style="background-color: #2a9d8f">
 <td markdown="span"> 1 </td>
-<td markdown="span">Some more descriptive text.</td>
+<td markdown="span">Voting and government</td>
 </tr>
 
 <tr style="background-color: #e9c46a">
 <td markdown="span"> 2 </td>
-<td markdown="span">Some more descriptive text.</td>
+<td markdown="span">Public health and safety with wearing a mask, washing hands, and social distancing</td>
 </tr>
 
 <tr style="background-color: #f4a261">
 <td markdown="span"> 3 </td>
-<td markdown="span">Some more descriptive text.</td>
+<td markdown="span">News reports and workers</td>
 </tr>
 
 <tr style="background-color: #e76f51">
 <td markdown="span"> 4 </td>
-<td markdown="span">Some more descriptive text.</td>
+<td markdown="span">Getting tested and going back to pre-covid life</td>
 </tr>
 
 </tbody>
